@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Class-Path: lib/CIContest-driver.jar lib/neuroph-adapters-2.9.jar lib/neuroph-contrib-2.9.jar lib/neuroph-core-2.9.jar lib/slf4j-api-1.7.13.jar lib/slf4j-simple-1.6.1.jar lib/slf4j.api-1.6.1.jar
+Main-Class: torcs.DefaultDriverAlgorithm
+Driver: torcs.DefaultDriver
